@@ -1,0 +1,30 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/TextController.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Areas/AreaBase.cs" Line="46" Column="173" />
+      <File FileName="Tests/Test.cs" Line="13" Column="25" />
+      <File FileName="Assets/Scripts/TextController.cs" Line="13" Column="22" />
+      <File FileName="Assets/Scripts/GraphHelpers.cs" Line="34" Column="157" />
+      <File FileName="Assets/Scripts/Areas/Freedom.cs" Line="11" Column="39" />
+      <File FileName="Assets/Scripts/Areas/Start.cs" Line="31" Column="9" />
+      <File FileName="Assets/Scripts/Areas/Cell.cs" Line="10" Column="16" />
+      <File FileName="Assets/Scripts/Areas/Closet.cs" Line="9" Column="4" />
+    </Files>
+    <Pads>
+      <Pad Id="MonoDevelop.NUnit.TestPad">
+        <State name="__root__">
+          <Node name="Text101" expanded="True" selected="True">
+            <Node name="Tests" expanded="True">
+              <Node name="LogicTests" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
